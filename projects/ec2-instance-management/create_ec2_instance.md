@@ -11,7 +11,9 @@ Go to your AWS account and log in, then search for EC2 Instances in the search b
 
 Step 2.
 
-Give a name of your choice, select Amazon Linux as a machine image, select your key-pair or create one if not have any. Leave the instance type t2.micro ie free tier as the same. Select **select existing security group** in network settings and select dropdown as "launch-wizard" and click on lauch instance on the bottom right
+- Give a name of your choice, select Amazon Linux as a machine image, select your key-pair or create one if not have any. 
+
+- Leave the instance type t2.micro ie free tier as the same. Select **select existing security group** in network settings and select dropdown as "launch-wizard" and click on lauch instance on the bottom right
 
 ![EC2_instance_steps](https://github.com/shiva-kumar-biru/aws_cloud/blob/main/projects/ec2-instance-management/docs/ec2_02.png)
 
@@ -24,7 +26,7 @@ Step 3.
 
 To know the details of the instance Id , click on the instance id . the following details such as private and public ip and the dns address and so on .. can be find here . 
 
-the below shows the private and public ip addr of the Instance 
+- the below shows the private and public ip addr of the Instance 
 
 ![info_about_instance](https://github.com/shiva-kumar-biru/aws_cloud/blob/main/projects/ec2-instance-management/docs/ec2_04.png)
 

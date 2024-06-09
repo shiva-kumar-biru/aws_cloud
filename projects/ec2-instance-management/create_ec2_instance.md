@@ -83,4 +83,4 @@ http://your-ec2-public-ip
 - To get the output, You have to change the security group settings , and allow port 80 for http 
 
 
-![sg]()
+![sg](https://github.com/shiva-kumar-biru/aws_cloud/blob/main/projects/ec2-instance-management/docs/ec2_07.png)

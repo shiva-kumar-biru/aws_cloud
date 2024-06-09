@@ -87,4 +87,4 @@ http://your-ec2-public-ip
 
 The output is 
 
-[output](https://github.com/shiva-kumar-biru/aws_cloud/blob/main/projects/ec2-instance-management/docs/output.png)
+![output](https://github.com/shiva-kumar-biru/aws_cloud/blob/main/projects/ec2-instance-management/docs/output.png)

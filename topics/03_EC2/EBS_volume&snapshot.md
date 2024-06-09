@@ -55,7 +55,7 @@ EBS Snapshots are backups of your EBS volumes. They are stored in S3 (Simple Sto
 
 ### steps to create a EBS volume and snapshot
 
-[EBS volume & snapshot]()
+[EBS volume & snapshot](https://github.com/shiva-kumar-biru/aws_cloud/blob/main/projects/ec2-instance-management/create_ebsvolume_snapshot.md)
   
 
 ## Conclusion

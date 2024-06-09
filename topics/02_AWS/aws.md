@@ -148,3 +148,5 @@ AWS's global infrastructure is designed to provide high availability, fault tole
 - **Edge Locations**: Sites to cache data closer to users for faster delivery.
 - **Region-Scoped Services**: Operate within a specific region.
 - **Global-Scoped Services**: Operate across multiple regions.
+
+

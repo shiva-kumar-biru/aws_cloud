@@ -124,15 +124,11 @@ User data in EC2 is commonly used for various automation tasks, including:
 - **Customization**: Tailoring instances to meet specific requirements or preferences, such as installing custom software packages or applying security patches.
 
 
-
-### Conclusion
-
-User data in Amazon EC2 is a powerful feature that allows you to automate the configuration and setup of EC2 instances. By leveraging user data scripts, you can streamline deployment processes, improve consistency, and reduce manual intervention when managing infrastructure in the cloud.
-
-
-
 ## In Summary
 
 Amazon EC2 (Elastic Compute Cloud) is a versatile cloud computing service that allows users to launch virtual servers, known as instances, to run applications and store data. With a wide range of instance types, such as general-purpose, compute-optimized, memory-optimized, and accelerated computing instances, users can tailor their resources to suit specific workload requirements. EC2 also offers extensive customization options, including various operating systems, storage options, networking configurations, and the ability to run user data scripts for automated instance setup. Overall, EC2 provides scalability, cost-effectiveness, reliability, and security, making it a popular choice for deploying and managing applications in the cloud.
 
 
+## Link to how to create an EC2 Instance
+
+[EC2 Instance]()

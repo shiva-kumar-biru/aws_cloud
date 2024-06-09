@@ -131,4 +131,4 @@ Amazon EC2 (Elastic Compute Cloud) is a versatile cloud computing service that a
 
 ## Link how to create an EC2 Instance
 
-[EC2 Instance]()
+[EC2 Instance](https://github.com/shiva-kumar-biru/aws_cloud/blob/main/projects/ec2-instance-management/create_ec2_instance.md)

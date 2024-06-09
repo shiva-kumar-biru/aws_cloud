@@ -84,3 +84,7 @@ http://your-ec2-public-ip
 
 
 ![sg](https://github.com/shiva-kumar-biru/aws_cloud/blob/main/projects/ec2-instance-management/docs/hello_browser.png)
+
+The output is 
+
+[output](https://github.com/shiva-kumar-biru/aws_cloud/blob/main/projects/ec2-instance-management/docs/output.png)

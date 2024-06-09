@@ -59,7 +59,7 @@ Before launching the instance, in the additional details, there is a user data s
 ```bash
 #!/bin/bash
 
-# Use this for your user data (script from top to bottom)
+
 
 # Install httpd (Linux 2 version)
 yum update -y

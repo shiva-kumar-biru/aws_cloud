@@ -21,7 +21,7 @@ Learn how to create and manage a security group in AWS to control inbound and ou
    - Go to the EC2 Dashboard.
    - In the left-hand navigation pane, click on "Security Groups" under "Network & Security".
 
-![sg_01]()
+![sg_01](https://github.com/shiva-kumar-biru/aws_cloud/blob/main/projects/ec2-instance-management/docs/sg_01.png)
 
 
 2. **Create a New Security Group**:
@@ -50,7 +50,7 @@ Learn how to create and manage a security group in AWS to control inbound and ou
    - By default, all outbound traffic is allowed. You can modify this as per your requirements.
    - Click "Save rules".
 
-[sg_02]()
+[sg_02](https://github.com/shiva-kumar-biru/aws_cloud/blob/main/projects/ec2-instance-management/docs/sg_02.png)
 
 
 
@@ -63,4 +63,4 @@ Learn how to create and manage a security group in AWS to control inbound and ou
    - Click "Actions" > "Networking" > "Change security groups".
    - Select the security group and click "Assign security groups".
 
-[sg_03]()
+[sg_03](https://github.com/shiva-kumar-biru/aws_cloud/blob/main/projects/ec2-instance-management/docs/sg_03.png)

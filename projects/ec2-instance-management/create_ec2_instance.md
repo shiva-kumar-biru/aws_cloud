@@ -48,3 +48,39 @@ Instance is connected
 
 ![Connected](https://github.com/shiva-kumar-biru/aws_cloud/blob/main/projects/ec2-instance-management/docs/ec2_06.png)
 
+
+
+
+# To create an EC2 instance with the EC2 user data to have a Website 
+
+Before launching the instance, in the additional details, there is a user data section
+
+
+```bash
+#!/bin/bash
+
+# Use this for your user data (script from top to bottom)
+
+# Install httpd (Linux 2 version)
+yum update -y
+yum install -y httpd
+systemctl start httpd
+systemctl enable httpd
+
+# Create a simple web page
+echo "<h1>Hello World from $(hostname -f)</h1>" > /var/www/html/index.html
+
+```
+
+Verify the Web Server:
+
+Open a web browser and navigate to the public IP of your EC2 instance. You should see the "Hello World" message:
+
+http://your-ec2-public-ip
+
+- First , you wont be able to see the "Hello World" on the browser
+  
+- To get the output, You have to change the security group settings , and allow port 80 for http 
+
+
+![sg]()

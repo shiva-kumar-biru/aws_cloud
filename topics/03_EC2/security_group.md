@@ -47,4 +47,4 @@ They regulate
 
 ## steps to create a Security Group and attaching to EC2 instance.
 
-[Create a Security Group]()
+[Create a Security Group](https://github.com/shiva-kumar-biru/aws_cloud/blob/main/projects/ec2-instance-management/create_security_group.md)

@@ -13,7 +13,7 @@
    - Set the volume type (e.g., gp2), size, and Availability Zone (same as your instance).
    - Click "Create Volume".
 
-[ebs_01](https://github.com/shiva-kumar-biru/aws_cloud/blob/main/projects/ec2-instance-management/docs/ebs_01.png)
+![ebs_01](https://github.com/shiva-kumar-biru/aws_cloud/blob/main/projects/ec2-instance-management/docs/ebs_01.png)
 
 3. **Attach the Volume to an Instance**:
    - Select your volume.
@@ -21,7 +21,7 @@
    - Choose your instance and device name.
    - Click "Attach".
 
-[ebs_02](https://github.com/shiva-kumar-biru/aws_cloud/blob/main/projects/ec2-instance-management/docs/ebs_02.png)
+![ebs_02](https://github.com/shiva-kumar-biru/aws_cloud/blob/main/projects/ec2-instance-management/docs/ebs_02.png)
 
 To create a snapshot of an EBS volume:
 

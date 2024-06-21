@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains resources and projects related to AWS services, aimed at showcasing your knowledge and expertise as an AWS Cloud Practitioner. The repository is organized into two main sections:
+This repository contains resources and projects related to AWS services. The repository is organized into two main sections:
 
 1. **Topic**: This section contains the content and information about various AWS services.
 2. **Project**: This section provides step-by-step guides on how to create and manage these AWS services.
